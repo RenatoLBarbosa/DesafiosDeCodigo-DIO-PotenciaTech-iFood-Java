@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  <img src="./assets/potencia-tech.webp" width="250px">
+  <img src="https://user-images.githubusercontent.com/56805018/194964111-09e46c7a-2547-4a74-abe7-c46a26fd3217.png" alt="8c36ef13-eebb-4efa-9a13-31f1c315fc02" width="25%" height="25%">
 </h2>
 
 <p align="center">
